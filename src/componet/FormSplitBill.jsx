@@ -41,6 +41,7 @@ export const FormSplitBill = ({ selectedFriend, onSplit }) => {
           <option value='friend'>{selectedFriend.name}</option>
         </select>
         <Button>Split jpbill</Button>
+        <h2>llll</h2>
       </form>
     </div>
   )
